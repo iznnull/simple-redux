@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import SearchPokemon from './components/search/SearchPokemon';
-import ResultPokemon from './components/results/ResultPokemon';
+import ResultPokemon from './components/search/ResultPokemon';
 import {Provider} from 'react-redux';
 import store from './redux/store';
 
